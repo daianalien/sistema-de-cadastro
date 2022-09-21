@@ -8,4 +8,4 @@ Para roda esse projeto na sua máquina, por favor digite:
 npm install react
 ```
 
-## obs: apenas para estudo
+##### obs: apenas para estudo
